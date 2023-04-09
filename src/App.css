@@ -1,0 +1,21 @@
+body{
+  background:#dfd2d2;
+}
+
+main {
+/*   text-align: center;
+  vertical-align: center;
+  line-height: 100vh */
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:auto;
+}
+.main-top-container{
+/*   display:flex;
+  align-items:center;
+  justify-content:center; */
+  margin:auto;
+  position:relative;
+  width:100%;
+}
